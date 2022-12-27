@@ -7,7 +7,7 @@ namespace R5T.E0066
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            DirectoryNameExplorations.Instance.DescribeInvalidFileNameCharactersToFile();
         }
     }
 }
